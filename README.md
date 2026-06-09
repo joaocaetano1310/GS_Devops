@@ -16,6 +16,13 @@
 
 ---
 
+## 🔗 Links
+
+- **GitHub:** https://github.com/SEU_REPOSITORIO_AQUI
+- **Vídeo YouTube: https://youtu.be/tDT_qkTjMUc
+
+---
+
 ## 📋 Descrição da Solução
 
 O **AgroVision** é uma plataforma inteligente voltada para produtores rurais que utiliza análise de imagens de satélite para identificar plantações com pragas. A solução permite que agricultores monitorem suas lavouras de forma remota e eficiente, recebendo alertas sobre áreas afetadas e tomando decisões rápidas para proteger sua produção.
@@ -252,13 +259,5 @@ docker rm -f db-562074
 docker volume rm volume-oracle-562074
 ```
 
----
-
-## 🔗 Links
-
-- **GitHub:** https://github.com/SEU_REPOSITORIO_AQUI
-- **Vídeo YouTube:** https://youtu.be/SEU_VIDEO_AQUI
-
----
 
 > FIAP — 2026 | Turma 2TDS | DevOps Tools & Cloud Computing
