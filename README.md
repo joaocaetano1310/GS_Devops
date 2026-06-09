@@ -18,7 +18,6 @@
 
 ## 🔗 Links
 
-- **GitHub:** https://github.com/SEU_REPOSITORIO_AQUI
 - **Vídeo YouTube: https://youtu.be/tDT_qkTjMUc
 
 ---
